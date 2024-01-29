@@ -1,0 +1,6 @@
+C:\Users\adria\Desktop\DAI\180283Programas\GestorBD\bin\Debug\GestorBD.dll
+C:\Users\adria\Desktop\DAI\180283Programas\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\adria\Desktop\DAI\180283Programas\GestorBD\obj\Debug\GestorBD.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\DAI\180283Programas\GestorBD\obj\Debug\GestorBD.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\DAI\180283Programas\GestorBD\obj\Debug\GestorBD.dll
+C:\Users\adria\Desktop\DAI\180283Programas\GestorBD\obj\Debug\GestorBD.pdb
